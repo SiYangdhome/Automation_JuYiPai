@@ -16,7 +16,7 @@ public class LoginTest {
     //正确账号密码登录成功
     @Test
     public void loginCase(){
-        Login.login("chrome","https://p.moonpool.com.cn/toIndexPage","15010685335","123456");
+        Login.login("chrome111","https://p.moonpool.com.cn/toIndexPage","15010685335","123456");
         String text = MyActions.getText(By.id("crewName"));
         Assert.assertEquals(text,"《斯里兰卡》");
     }
