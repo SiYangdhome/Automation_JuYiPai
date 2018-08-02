@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
 <suite name="Default Suite">
   <test name="JuYiPai">
     <classes>
-      <class name="autofreamwork.LoginTest">
+      <class name="autofreamwork.LogOutTest">
 
-      </class> <!-- autofreamwork.LoginTest -->
+      </class> <!-- autofreamwork.LogOutTest -->
     </classes>
   </test> <!-- JuYiPai -->
+
 </suite> <!-- Default Suite -->
+
