@@ -4,7 +4,7 @@
 <suite name="Default Suite">
   <test name="JuYiPai">
     <classes>
-      <class name="autofreamwork.LogOutTest">
+      <class name="autofreamwork.LoginTest">
 
       </class> <!-- autofreamwork.LogOutTest -->
     </classes>
