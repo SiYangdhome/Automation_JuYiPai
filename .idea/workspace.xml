@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="139382cf-cfa3-4e1c-9e36-77af6f841f16" name="Default" comment="" />
+    <list default="true" id="139382cf-cfa3-4e1c-9e36-77af6f841f16" name="Default" comment="同步文件">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__io_qameta_allure_allure2_model_api_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__io_qameta_allure_allure2_model_jackson_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__io_qameta_allure_allure2_model_pojo_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__io_qameta_allure_allure_descriptions_javadoc_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__org_apache_tika_tika_core_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__org_jooq_joor_java_8_0_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JuYiPai/logs/test.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/LoggerControler.class" afterPath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/LoggerControler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/Login.class" afterPath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/Login.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/MyActions.class" afterPath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/MyActions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/OpenUrl.class" afterPath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/OpenUrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/SeleniumDriver.class" afterPath="$PROJECT_DIR$/../JuYiPai/target/classes/autofreamwork_logic_layer/SeleniumDriver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JuYiPai/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/JuYiPai.iml" afterPath="$PROJECT_DIR$/../JuYiPai/JuYiPai.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/RunTest.xml" afterPath="$PROJECT_DIR$/../JuYiPai/RunTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/config/Log4j.properties" afterPath="$PROJECT_DIR$/../JuYiPai/config/Log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java" afterPath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Login.java" afterPath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java" afterPath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java" afterPath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/SeleniumDriver.java" afterPath="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/SeleniumDriver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java" afterPath="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/Default Suite/JuYiPai.html" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/Default Suite/JuYiPai.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/Default Suite/JuYiPai.xml" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/Default Suite/JuYiPai.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/junitreports/TEST-autofreamwork.LoginTest.xml" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/junitreports/TEST-autofreamwork.LoginTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/old/Default Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/old/Default Suite/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/old/Default Suite/methods.html" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/old/Default Suite/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/../JuYiPai/target/surefire-reports/testng-results.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../JuYiPai/out/" />
     <ignored path="$PROJECT_DIR$/../JuYiPai/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,51 +56,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JuYiPai/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LoggerControler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1054#1055#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1157#1158#0" expanded="true" />
-                <element signature="e#1188#1189#0" expanded="true" />
-                <element signature="e#1223#1224#0" expanded="true" />
-                <element signature="e#1253#1254#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunTest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JuYiPai/RunTest.xml">
+      <file leaf-file-name="test.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JuYiPai/logs/test.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="-1191">
+              <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JuYiPai/config/Log4j.properties">
+      <file leaf-file-name="JuYiPai.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JuYiPai/JuYiPai.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/SeleniumDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" column="91" lean-forward="false" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -66,23 +102,11 @@
       <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state relative-caret-position="262">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenUrl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -90,28 +114,38 @@
       <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SetHeadImgTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/SetHeadImgTest.java">
+      <file leaf-file-name="RunTest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JuYiPai/RunTest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Element.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Element.java">
+      <file leaf-file-name="OpenUrl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogOutTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,8 +154,8 @@
       <file leaf-file-name="MyActions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,20 +194,13 @@
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Element.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Sendkeys.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Assert.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Login.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/SeleniumDriver.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/register.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/RunTest.xml" />
-        <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LoginTest.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/home.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/userinfo.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/UserInfoTest.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/SetheadImg.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/setheadImg.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/FileUtils.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/feedback.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/dlfj.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/FeedBackTest.java" />
@@ -181,11 +208,18 @@
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/basic_nation.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/com/page_object/basicnation.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/BasicnationTest.java" />
-        <option value="$PROJECT_DIR$/../JuYiPai/config/Log4j.properties" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Log4j.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/SetHeadImgTest.java" />
+        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java" />
+        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Login.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java" />
+        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java" />
+        <option value="$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/SeleniumDriver.java" />
+        <option value="$PROJECT_DIR$/../JuYiPai/config/Log4j.properties" />
+        <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LoginTest.java" />
         <option value="$PROJECT_DIR$/../JuYiPai/pom.xml" />
+        <option value="$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java" />
+        <option value="$PROJECT_DIR$/../JuYiPai/RunTest.xml" />
       </list>
     </option>
   </component>
@@ -213,9 +247,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="829" />
-    <option name="y" value="111" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="884" />
+    <option name="y" value="93" />
     <option name="width" value="1022" />
     <option name="height" value="726" />
   </component>
@@ -235,7 +269,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -253,6 +286,11 @@
             <path>
               <item name="JuYiPai" type="b2602c69:ProjectViewProjectNode" />
               <item name="JuYiPai" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuYiPai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuYiPai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,6 +298,21 @@
               <item name="JuYiPai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuYiPai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuYiPai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuYiPai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuYiPai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autofreamwork_logic_layer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JuYiPai" type="b2602c69:ProjectViewProjectNode" />
@@ -286,11 +339,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="GrepConsole" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/Appium/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -317,39 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BasicnationTest.updateName">
-    <configuration name="BasicnationTest.updateName" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="autofreamwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JuYiPai" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="autofreamwork" />
-      <option name="MAIN_CLASS_NAME" value="autofreamwork.BasicnationTest" />
-      <option name="METHOD_NAME" value="updateName" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
+  <component name="RunManager" selected="TestNG.LoginTest.loginFalsephone">
     <configuration name="E:/JuYiPai/RunTest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="JuYiPai" />
@@ -377,7 +399,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="LogOutTest.LogoutCase" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="autofreamwork.*" />
@@ -389,8 +411,40 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="autofreamwork" />
-      <option name="MAIN_CLASS_NAME" value="autofreamwork.LogOutTest" />
-      <option name="METHOD_NAME" value="LogoutCase" />
+      <option name="MAIN_CLASS_NAME" value="autofreamwork.LoginTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="LoginTest.loginCase" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="autofreamwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JuYiPai" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="autofreamwork" />
+      <option name="MAIN_CLASS_NAME" value="autofreamwork.LoginTest" />
+      <option name="METHOD_NAME" value="loginCase" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -409,7 +463,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="LoginTest.loginFalsepwd" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest.loginFalsephone" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="autofreamwork.*" />
@@ -422,7 +476,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="autofreamwork" />
       <option name="MAIN_CLASS_NAME" value="autofreamwork.LoginTest" />
-      <option name="METHOD_NAME" value="loginFalsepwd" />
+      <option name="METHOD_NAME" value="loginFalsephone" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -555,19 +609,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.LoginTest.loginFalsepwd" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.E:/JuYiPai/RunTest.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.SetHeadImgTest.sendfileImg" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.LogOutTest.LogoutCase" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.BasicnationTest.updateName" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.E:/JuYiPai/RunTest.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.LoginTest.loginCase" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.SetHeadImgTest.sendfileImg" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.LoginTest.loginFalsephone" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.BasicnationTest.updateName" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.LogOutTest.LogoutCase" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.SetHeadImgTest.sendfileImg" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.LoginTest.loginFalsephone" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.SetHeadImgTest.sendfileImg" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest.loginCase" />
         <item index="3" class="java.lang.String" itemvalue="TestNG.E:/JuYiPai/RunTest.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.LoginTest.loginFalsepwd" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -583,63 +637,117 @@
       <updated>1532399364080</updated>
       <workItem from="1532399368257" duration="20301000" />
       <workItem from="1532506066677" duration="30022000" />
-      <workItem from="1532931944898" duration="12672000" />
+      <workItem from="1532931944898" duration="16487000" />
+      <workItem from="1533017506367" duration="547000" />
+      <workItem from="1533018367237" duration="4914000" />
+      <workItem from="1533176885628" duration="5647000" />
     </task>
+    <task id="LOCAL-00001" summary="错误用例发送邮件通知">
+      <created>1533177140831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533177140831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改测试用例">
+      <created>1533177512310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533177512310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加allure文件">
+      <created>1533179250866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533179250866</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加allure需要用的文件，调试测试报告">
+      <created>1533181233114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533181233114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试allure测试报告是否发送邮件通知">
+      <created>1533182186188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533182186188</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改运行文件">
+      <created>1533182352252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533182352252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="邮件设置测试">
+      <created>1533193085333</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533193085333</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicnationTest_updateName - 2018.07.27 at 11h 04m 47s.xml">
-      <configuration name="BasicnationTest.updateName" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginCase - 2018.07.31 at 14h 40m 26s.xml">
+      <configuration name="LoginTest.loginCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicnationTest_updateName - 2018.07.27 at 11h 07m 14s.xml">
-      <configuration name="BasicnationTest.updateName" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginCase - 2018.07.31 at 14h 41m 01s.xml">
+      <configuration name="LoginTest.loginCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicnationTest_updateName - 2018.07.27 at 11h 09m 33s.xml">
-      <configuration name="BasicnationTest.updateName" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginCase - 2018.07.31 at 14h 42m 17s.xml">
+      <configuration name="LoginTest.loginCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicnationTest_updateName - 2018.07.27 at 11h 11m 32s.xml">
-      <configuration name="BasicnationTest.updateName" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginCase - 2018.07.31 at 14h 50m 02s.xml">
+      <configuration name="LoginTest.loginCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicnationTest_updateName - 2018.07.27 at 16h 17m 24s.xml">
-      <configuration name="BasicnationTest.updateName" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginCase - 2018.07.31 at 14h 52m 10s.xml">
+      <configuration name="LoginTest.loginCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicnationTest_updateName - 2018.07.27 at 16h 18m 19s.xml">
-      <configuration name="BasicnationTest.updateName" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginFalsephone - 2018.07.31 at 15h 04m 32s.xml">
+      <configuration name="LoginTest.loginFalsephone" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LogOutTest_LogoutCase - 2018.07.26 at 15h 11m 40s.xml">
-      <configuration name="LogOutTest.LogoutCase" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginFalsephone - 2018.07.31 at 15h 05m 39s.xml">
+      <configuration name="LoginTest.loginFalsephone" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LogOutTest_LogoutCase - 2018.07.26 at 15h 16m 50s.xml">
-      <configuration name="LogOutTest.LogoutCase" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginFalsephone - 2018.07.31 at 15h 13m 27s.xml">
+      <configuration name="LoginTest.loginFalsephone" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetHeadImgTest_sendfileImg - 2018.07.26 at 14h 30m 48s.xml">
-      <configuration name="SetHeadImgTest.sendfileImg" configurationId="TestNG" />
+    <history-entry file="LoginTest_loginFalsephone - 2018.07.31 at 15h 24m 57s.xml">
+      <configuration name="LoginTest.loginFalsephone" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetHeadImgTest_sendfileImg - 2018.07.26 at 14h 54m 03s.xml">
+    <history-entry file="SetHeadImgTest_sendfileImg - 2018.07.31 at 14h 58m 53s.xml">
       <configuration name="SetHeadImgTest.sendfileImg" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62995000" />
+    <option name="totallyTimeSpent" value="77918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="829" y="111" width="1022" height="726" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847533" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31354985" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52313167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53699553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.74526316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17113733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285968" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -650,15 +758,29 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285968" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="错误用例发送邮件通知" />
+    <MESSAGE value="修改测试用例" />
+    <MESSAGE value="增加allure文件" />
+    <MESSAGE value="增加allure需要用的文件，调试测试报告" />
+    <MESSAGE value="测试allure测试报告是否发送邮件通知" />
+    <MESSAGE value="修改运行文件" />
+    <MESSAGE value="邮件设置测试" />
+    <MESSAGE value="同步文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="同步文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -667,18 +789,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/SetHeadImgTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="e#768#769#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -693,11 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="26" column="90" lean-forward="true" selection-start-line="26" selection-start-column="90" selection-end-line="26" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1287#1288#0" expanded="false" />
-            <element signature="e#1328#1329#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,8 +852,6 @@
           <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -781,14 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/JuYiPai.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -818,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -879,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,25 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/FeedBackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#755#756#0" expanded="false" />
-            <element signature="e#796#797#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.9.1/selenium-api-3.9.1.jar!/org/openqa/selenium/WebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -916,38 +990,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1125#1126#0" expanded="false" />
+            <element signature="e#1161#1162#0" expanded="false" />
+            <element signature="e#1194#1195#0" expanded="false" />
+            <element signature="e#1229#1230#0" expanded="false" />
+            <element signature="e#1261#1262#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="118" column="19" lean-forward="false" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/FeedBackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/BasicnationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="26" column="90" lean-forward="false" selection-start-line="26" selection-start-column="90" selection-end-line="26" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/SetHeadImgTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/config/Log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/RunTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1287#1288#0" expanded="false" />
-            <element signature="e#1328#1329#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LogOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/SeleniumDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="9" column="91" lean-forward="false" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/OpenUrl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/MyActions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -956,94 +1117,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="304">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/SetHeadImgTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="118" column="19" lean-forward="false" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/config/Log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/main/java/autofreamwork_logic_layer/LoggerControler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1054#1055#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-            <element signature="e#1188#1189#0" expanded="true" />
-            <element signature="e#1223#1224#0" expanded="true" />
-            <element signature="e#1253#1254#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/RunTest.xml">
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/logs/test.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="-1191">
+          <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/src/test/java/autofreamwork/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/../JuYiPai/JuYiPai.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JuYiPai/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

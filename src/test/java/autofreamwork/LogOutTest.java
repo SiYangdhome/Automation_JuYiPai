@@ -14,7 +14,7 @@ public class LogOutTest {
     //退出登录
     @Test
     public void LogoutCase(){
-        Login.login("chrome11","https://p.moonpool.com.cn/toLoginPage","15010685335","123456");
+        Login.login("chrome","https://p.moonpool.com.cn/toLoginPage","15010685335","123456");
         MyActions.click(home.userinfo);
         MyActions.click(userinfo.logout);
         String url = MyActions.getCurrentURL();

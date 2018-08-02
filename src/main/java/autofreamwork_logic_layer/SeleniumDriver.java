@@ -7,6 +7,8 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class SeleniumDriver {
 
+    final static LoggerControler log = LoggerControler.GetLoggerTest(SeleniumDriver.class);
+
     public static  WebDriver driver;
 
     public static void OpenBrowser(String browser){
@@ -22,15 +24,19 @@ public class SeleniumDriver {
         }else if (browser.equals("firefox")){
             driver = new FirefoxDriver();
         }else {
-            System.out.println("输入浏览器名称有误");
+           log.error("输入浏览器名称有误");
         }
+
     }
 
     public static void closeall(){
         driver.quit();
+        log.info("关闭浏览器");
+
     }
 
     public static void close(){
         driver.close();
+        log.info("关闭当前窗口");
     }
 }

@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="27237" started-at="2018-07-31T01:58:57Z" finished-at="2018-07-31T01:59:24Z">
+  <suite name="Default Suite" duration-ms="25539" started-at="2018-07-31T02:30:18Z" finished-at="2018-07-31T02:30:43Z">
     <groups>
     </groups>
-    <test name="JuYiPai" duration-ms="27237" started-at="2018-07-31T01:58:57Z" finished-at="2018-07-31T01:59:24Z">
+    <test name="JuYiPai" duration-ms="25539" started-at="2018-07-31T02:30:18Z" finished-at="2018-07-31T02:30:43Z">
       <class name="autofreamwork.LoginTest">
-        <test-method status="PASS" signature="loginCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="loginCase" duration-ms="12337" started-at="2018-07-31T09:58:57Z" finished-at="2018-07-31T09:59:09Z">
+        <test-method status="PASS" signature="loginCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="loginCase" duration-ms="10668" started-at="2018-07-31T10:30:18Z" finished-at="2018-07-31T10:30:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCase -->
-        <test-method status="PASS" signature="closeCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="closeCase" is-config="true" duration-ms="815" started-at="2018-07-31T09:59:09Z" finished-at="2018-07-31T09:59:10Z">
+        <test-method status="PASS" signature="closeCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="closeCase" is-config="true" duration-ms="810" started-at="2018-07-31T10:30:28Z" finished-at="2018-07-31T10:30:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeCase -->
-        <test-method status="PASS" signature="loginFalsephone()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="loginFalsephone" duration-ms="6127" started-at="2018-07-31T09:59:10Z" finished-at="2018-07-31T09:59:16Z">
+        <test-method status="PASS" signature="loginFalsephone()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="loginFalsephone" duration-ms="6123" started-at="2018-07-31T10:30:29Z" finished-at="2018-07-31T10:30:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFalsephone -->
-        <test-method status="PASS" signature="closeCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="closeCase" is-config="true" duration-ms="880" started-at="2018-07-31T09:59:16Z" finished-at="2018-07-31T09:59:17Z">
+        <test-method status="PASS" signature="closeCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="closeCase" is-config="true" duration-ms="1108" started-at="2018-07-31T10:30:35Z" finished-at="2018-07-31T10:30:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeCase -->
-        <test-method status="PASS" signature="loginFalsepwd()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="loginFalsepwd" duration-ms="6258" started-at="2018-07-31T09:59:17Z" finished-at="2018-07-31T09:59:23Z">
+        <test-method status="PASS" signature="loginFalsepwd()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="loginFalsepwd" duration-ms="5987" started-at="2018-07-31T10:30:36Z" finished-at="2018-07-31T10:30:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFalsepwd -->
-        <test-method status="PASS" signature="closeCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="closeCase" is-config="true" duration-ms="801" started-at="2018-07-31T09:59:23Z" finished-at="2018-07-31T09:59:24Z">
+        <test-method status="PASS" signature="closeCase()[pri:0, instance:autofreamwork.LoginTest@3ac3fd8b]" name="closeCase" is-config="true" duration-ms="822" started-at="2018-07-31T10:30:42Z" finished-at="2018-07-31T10:30:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeCase -->

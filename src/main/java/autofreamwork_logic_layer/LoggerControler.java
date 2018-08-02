@@ -32,18 +32,18 @@ public class LoggerControler {
     }
 
     public void info(Object msg){
-        logg.info(msg);
+        logger.info(msg);
     }
 
     public void debug(Object msg){
-        logg.debug(msg);
+        logger.debug(msg);
     }
 
     public void error(Object msg){
-        logg.error(msg);
+        logger.error(msg);
     }
 
     public void warn(Object msg){
-        logg.warn(msg);
+        logger.warn(msg);
     }
 }

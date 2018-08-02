@@ -1,0 +1,112 @@
+2018-07-31 11:56:56,175 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开:chrome浏览器
+2018-07-31 11:56:58,553 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 11:56:58,731 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 11:56:58,844 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 11:57:03,174 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 11:57:03,174 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 11:57:03,249 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+2018-07-31 11:57:04,077 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 11:57:07,310 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开:chrome浏览器
+2018-07-31 11:57:09,605 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 11:57:09,755 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:1501068533
+2018-07-31 11:57:09,867 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 11:57:09,970 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 11:57:09,970 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 11:57:10,021 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: errorMessage
+2018-07-31 11:57:10,895 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 11:57:14,017 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开:chrome浏览器
+2018-07-31 11:57:16,292 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 11:57:16,450 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 11:57:16,560 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:12345
+2018-07-31 11:57:16,655 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 11:57:16,656 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 11:57:16,708 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: errorMessage
+2018-07-31 11:57:17,701 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 11:59:44,554 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 12:00:10,472 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 12:00:10,633 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 12:00:10,741 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 12:00:14,716 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 12:00:14,717 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 12:00:14,795 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+2018-07-31 12:00:15,607 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 14:19:06,780 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 14:19:06,948 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 14:19:07,059 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 14:19:10,940 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 14:19:10,940 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 14:19:11,005 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+2018-07-31 14:19:11,876 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 14:29:58,058 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 14:29:58,245 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 14:29:58,353 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 14:30:02,244 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 14:30:02,244 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 14:30:02,311 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+2018-07-31 14:30:03,315 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 14:30:38,572 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:32:10,493 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:34:49,869 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:36:01,116 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:39:24,540 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:40:25,731 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:41:00,765 ERROR main [autofreamwork_logic_layer.OpenUrl]error(line:43)输入浏览器名称有误
+2018-07-31 14:42:11,522 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 14:42:11,714 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 14:42:11,825 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 14:42:15,646 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 14:42:15,647 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 14:42:15,722 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+2018-07-31 14:42:16,646 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 14:49:57,402 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 14:49:57,567 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+2018-07-31 14:49:57,668 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 14:50:01,539 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 14:50:01,541 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 14:50:01,613 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+2018-07-31 14:50:02,519 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+INFO 2018-07-31 14:52:05,537  main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+INFO 2018-07-31 14:52:05,703  main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:15010685335
+INFO 2018-07-31 14:52:05,802  main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+INFO 2018-07-31 14:52:09,539  main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+INFO 2018-07-31 14:52:09,539  main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+INFO 2018-07-31 14:52:09,610  main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: crewName
+INFO 2018-07-31 14:52:10,487  main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+INFO 2018-07-31 14:58:46,998  main [autofreamwork_logic_layer.OpenUrl](line:35)打开网址：https://p.moonpool.com.cn/toLoginPage
+INFO 2018-07-31 14:58:47,197  main [autofreamwork_logic_layer.OpenUrl](line:35)在文本框输入:15010685335
+INFO 2018-07-31 14:58:47,312  main [autofreamwork_logic_layer.OpenUrl](line:35)在文本框输入:123456
+INFO 2018-07-31 14:58:51,138  main [autofreamwork_logic_layer.OpenUrl](line:35)点击By.id: submit
+INFO 2018-07-31 14:58:51,139  main [autofreamwork_logic_layer.OpenUrl](line:35)登录
+INFO 2018-07-31 14:58:52,074  main [autofreamwork_logic_layer.OpenUrl](line:35)点击By.id: usersName
+INFO 2018-07-31 14:58:52,196  main [autofreamwork_logic_layer.OpenUrl](line:35)点击By.id: userImg
+ERROR 2018-07-31 14:58:52,272  main [autofreamwork_logic_layer.OpenUrl](line:43)文件类型有误
+INFO 2018-07-31 14:58:52,450  main [autofreamwork_logic_layer.OpenUrl](line:35)点击By.xpath: //*[@id="uploadWin"]/div[2]/button[1]
+INFO 2018-07-31 14:58:53,307  main [autofreamwork_logic_layer.OpenUrl](line:35)关闭浏览器
+INFO 2018-07-31 15:04:30,658  main [autofreamwork_logic_layer.OpenUrl](line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+INFO 2018-07-31 15:04:30,826  main [autofreamwork_logic_layer.OpenUrl](line:35)在文本框输入:1501068533
+INFO 2018-07-31 15:04:30,949  main [autofreamwork_logic_layer.OpenUrl](line:35)在文本框输入:123456
+INFO 2018-07-31 15:04:31,098  main [autofreamwork_logic_layer.OpenUrl](line:35)点击By.id: submit
+INFO 2018-07-31 15:04:31,099  main [autofreamwork_logic_layer.OpenUrl](line:35)登录
+INFO 2018-07-31 15:04:31,155  main [autofreamwork_logic_layer.OpenUrl](line:35)获取文本内容：By.id: errorMessage
+INFO 2018-07-31 15:04:32,090  main [autofreamwork_logic_layer.OpenUrl](line:35)关闭浏览器
+2018-07-31 15:05:37,583 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 15:05:37,781 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:1501068533
+2018-07-31 15:05:37,896 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)在文本框输入:123456
+2018-07-31 15:05:38,000 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)点击By.id: submit
+2018-07-31 15:05:38,001 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)登录
+2018-07-31 15:05:38,054 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)获取文本内容：By.id: errorMessage
+2018-07-31 15:05:38,955 INFO main [autofreamwork_logic_layer.OpenUrl]info(line:35)关闭浏览器
+2018-07-31 15:13:25,535 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)打开网址：https://p.moonpool.com.cn/toIndexPage
+2018-07-31 15:13:25,694 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)在文本框输入:1501068533
+2018-07-31 15:13:25,805 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)在文本框输入:123456
+2018-07-31 15:13:25,907 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)点击By.id: submit
+2018-07-31 15:13:25,908 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)登录
+2018-07-31 15:13:25,965 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)获取文本内容：By.id: errorMessage
+2018-07-31 15:13:26,865 INFO main [autofreamwork_logic_layer.SeleniumDriver]info(line:35)关闭浏览器
+INFO 2018-07-31 15:24:55,839  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 打开网址：https://p.moonpool.com.cn/toIndexPage
+INFO 2018-07-31 15:24:55,990  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 在文本框输入:1501068533
+INFO 2018-07-31 15:24:56,095  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 在文本框输入:123456
+INFO 2018-07-31 15:24:56,194  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 点击By.id: submit
+INFO 2018-07-31 15:24:56,194  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 登录
+INFO 2018-07-31 15:24:56,246  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 获取文本内容：By.id: errorMessage
+INFO 2018-07-31 15:24:57,359  main [autofreamwork_logic_layer.SeleniumDriver] (line:35) 关闭浏览器
